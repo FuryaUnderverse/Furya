@@ -8,13 +8,13 @@ import (
 
 const (
 	// Name defines the application name of the Umee network.
-	Name = "umee"
+	Name = "furya"
 
 	// BondDenom defines the native staking token denomination.
-	BondDenom = "uumee"
+	BondDenom = "ufurya"
 
 	// DisplayDenom defines the name, symbol, and display value of the umee token.
-	DisplayDenom = "UMEE"
+	DisplayDenom = "FURYA"
 
 	// DefaultGasLimit - set to the same value as cosmos-sdk flags.DefaultGasLimit
 	// this value is currently only used in tests.
