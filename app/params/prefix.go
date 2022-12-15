@@ -5,7 +5,7 @@ import (
 )
 
 // AccountAddressPrefix defines the Umee network's Bech32 address prefix.
-const AccountAddressPrefix = "umee"
+const AccountAddressPrefix = "furya"
 
 // Account specific Bech32 prefixes.
 var (
